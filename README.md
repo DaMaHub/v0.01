@@ -4,7 +4,7 @@
 
 We are living through a fundamental change, progressing from an era in which data was scarce and hard to access to an era in which data exceeds our ability to extract meaning from it. 
 
-Data fusion from different fields of science and across institutions is gaining importance in making new discoveries and replicating old ones [^1]. 
+Data fusion from different fields of science and across institutions is gaining importance in making new discoveries and replicating old ones [1]. 
 
 Computer science is now called to action to develop new infrastructures which will make it possible to employ data exploration, analysis and mining techniques to extract insight from large datasets with the help of artificial intelligence [2]. Such infrastructures must be resilient, permanent and linked (read ‘useful’).
 
