@@ -14,9 +14,6 @@ Computer science is now called to action to develop new infrastructures which wi
 
 The explosion of data-intensive research is challenging researchers, publishers and librarians to create new solutions to link publications to research data (and vice versa), to facilitate data mining and to manage the dataset as a potential unit of publication.
 
-The emerging research area of digital biomarkers combine the aforementioned challenges as the aggregation and analysis of data is an integral part of the research.
-
-This business case utilizes a workflow approach to academic research and aims to develop an integrated scholarly communication infrastructure which efficiently combined article and data publishing in the field of digital biomarkers research.
 
 ## Mandatory Data Management Requirements
 
