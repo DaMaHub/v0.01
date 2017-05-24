@@ -4,6 +4,8 @@
 
 • 3 min [video](https://vimeo.com/damahub/)
 
+• Contact us and help to built Data Management Hub
+
 ## Introduction
 
 We are living through a fundamental change, progressing from an era in which data was scarce and hard to access to an era in which data exceeds our ability to extract meaning from it. 
