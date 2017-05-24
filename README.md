@@ -1,6 +1,7 @@
 # Data Management Hub
 
 • [Executive Summary](https://github.com/kubrik-engineering/damahub/blob/master/ExecutiveSummaryDataManagementHub.pdf)
+
 • 3 min [video](https://vimeo.com/damahub/)
 
 ## Introduction
