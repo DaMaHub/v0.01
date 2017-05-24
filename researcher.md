@@ -1,0 +1,7 @@
+For the researcher  Data Management Hub is, at first sight, just another directory on the local computer. You can save files in it, and  DaMaHub takes care of the versioning in the background. Sharing access is as easy as sending an email. The system will prompt the user for additional metadata to help the collaborator to get started with the data. If required, the complete power of a state-of-the-art versioning system is available to researchers, making it easy to manage different versions and follow up changes or detect differences.
+ 
+ With  Data Management Hub it will also be easy to open up the research data, which will only require a few clicks. The decentralised network, based on a distributed file system (IPFS) and blockchain technology, will take care of Open Data publishing, archiving and interaction with data on a worldwide scale. Social sharing, peer reviewing and re-use of open research data will be built into this system.
+ 
+We already have a basic demonstration of the technology available on a trial basis at https://kubrik.io/demos/odr/ (password-based access for uploading available on request).
+
+Data Management Hub has the potential to be as transformative for scientific work as Github has been for programming and will generate a similar level of interaction with open research data.
