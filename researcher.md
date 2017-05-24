@@ -15,6 +15,6 @@ For a researcher  Data Management Hub is, at first sight, just another directory
  
 With  Data Management Hub it will also be easy to open up the research data, which will only require a few clicks. The decentralised network, based on a distributed file system (IPFS) and blockchain technology, will take care of Open Data publishing, archiving and interaction with data on a worldwide scale. Social sharing, peer reviewing and re-use of open research data will be built into this system.
  
-We already have a basic demonstration of the technology available on a trial basis at https://kubrik.io/demos/odr/ (password-based access for uploading available on request).
+We already have a basic demonstration of the technology https://github.com/kubrik-engineering/opendocumentrepository
 
 Data Management Hub has the potential to be as transformative for scientific work as Github has been for programming and will generate a similar level of interaction with open research data.
