@@ -4,7 +4,9 @@
 
 • 3 min [video](https://vimeo.com/damahub/)
 
-• Contact us and help to built Data Management Hub
+• [slides](https://github.com/kubrik-engineering/damahub/blob/master/DaMaHub_slides.pdf)
+
+• [Contact us]() and help to built Data Management Hub
 
 ## Introduction
 
