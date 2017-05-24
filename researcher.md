@@ -1,4 +1,4 @@
-## What is Data Management Hub for Researchers
+## User case: Researchers
 
 We asked researchers what they NEED for day to day data management and what they WANT from it.
 
