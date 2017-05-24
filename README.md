@@ -6,7 +6,7 @@
 
 • [slides](https://github.com/kubrik-engineering/damahub/blob/master/DaMaHub_slides.pdf)
 
-• [Contact us]() and help to built Data Management Hub
+• [Contact us](https://github.com/kubrik-engineering/damahub/blob/master/contact.md) and help to built Data Management Hub
 
 ## Introduction
 
