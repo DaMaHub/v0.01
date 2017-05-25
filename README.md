@@ -6,7 +6,7 @@
 
 • [slides](https://github.com/kubrik-engineering/damahub/blob/master/DaMaHub_slides.pdf)
 
-• [Road map / to do list]
+• [Road map / to do list](https://github.com/kubrik-engineering/damahub/blob/master/to%20do%20list.md)
 
 • [Contact us](https://github.com/kubrik-engineering/damahub/blob/master/contact.md) and help to built Data Management Hub
 
