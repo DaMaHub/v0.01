@@ -2,9 +2,11 @@
 
 • [Executive Summary](https://github.com/kubrik-engineering/damahub/blob/master/ExecutiveSummaryDataManagementHub.pdf)
 
-• 3 min [video](https://vimeo.com/damahub/)
+• 2 min [video](https://vimeo.com/damahub/)
 
 • [slides](https://github.com/kubrik-engineering/damahub/blob/master/DaMaHub_slides.pdf)
+
+• [Road map / to do list]
 
 • [Contact us](https://github.com/kubrik-engineering/damahub/blob/master/contact.md) and help to built Data Management Hub
 
