@@ -65,12 +65,13 @@ The data management hub is ideally positioned to support clinical researchers al
 
 The Data Management Hub allows researchers to manage research data in a seamless process from experimentation to publication. The Data Management Hub integrates enabling scientists 
 
-to keep sensitive data secure and,
-to collaborate between research groups,  
-to make research data accessible, interoperable and reusable,
-to effortlessly publish data together with original journal articles.
+* to keep sensitive data secure and,
+* to collaborate between research groups,  
+* to make research data accessible, interoperable and reusable,
+* to effortlessly publish data together with original journal articles.
  
-The research data infrastructure enabled with the Data Management Hub will be permanent, persistent and linked and will have a transformative potential for the way we do science in the future.
+The research data infrastructure enabled with the Data Management Hub will be permanent, persistent and linked and will have a transformative potential for the way we do science in the future
+
 
 
 ## References
