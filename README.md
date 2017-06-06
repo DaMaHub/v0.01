@@ -1,4 +1,4 @@
-# Data Management Hub
+# Data Management Hub (published 19 December 2016)
 
 • [Executive Summary](https://github.com/kubrik-engineering/damahub/blob/master/ExecutiveSummaryDataManagementHub.pdf)
 
