@@ -1,8 +1,10 @@
-# Data Management Hub (published 19 December 2016)
+# Data Management Hub 
 
-• [Executive Summary](https://github.com/kubrik-engineering/damahub/blob/master/ExecutiveSummaryDataManagementHub.pdf)
+• [Executive Summary](https://github.com/kubrik-engineering/damahub/blob/master/ExecutiveSummaryDataManagementHub.pdf)(initially drafted 19 December 2016)
 
-• 2 min [video](https://vimeo.com/damahub/)
+• Data Management Hub in 2 min [video](https://vimeo.com/damahub/)
+
+• [Presentation of Data Manegement Hub at the Academic Publishing in Europe conference](https://www.youtube.com/watch?v=MYFyr2NmWdg) - 10 min video (18 January 2017)
 
 • [slides](https://github.com/kubrik-engineering/damahub/blob/master/DaMaHub_slides.pdf)
 
