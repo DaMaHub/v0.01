@@ -1,4 +1,4 @@
-## To do list
+## Technical Roadmap v0.01
 
 (via Ingo Keck)
 
@@ -15,7 +15,7 @@ MVP ready:
     - Working on mac, windows, linux thanks to python installer pkg 
     
 - Server side:
-    - NameCoin incorporated   
+    - [NameCoin](https://github.com/namecoin) incorporated   
     - Metadata management     
     - Data packaging? (frictionless data?) 
     - User management        
