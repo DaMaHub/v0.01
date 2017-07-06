@@ -72,7 +72,7 @@ The Data Management Hub allows researchers to manage research data in a seamless
 * to make research data FAIR (Findable, Accessible, Interoperable and Reusable) [13],
 * to effortlessly publish data together with original journal articles.
  
-Data Management Hub must be designed, developed and maintained according to the [Principles for Open Scholarly Infrastructures](https://github.com/kubrik-engineering/damahub/blob/master/Principles%20for%20Open%20Scholarly%20Infrastructures.md). 
+Data Management Hub must be designed, developed and maintained according to the [Principles for Open Scholarly Infrastructures](https://github.com/kubrik-engineering/damahub/blob/master/Principles%20for%20Open%20Scholarly%20Infrastructures.md)[14] 
 
 In turn, the research data infrastructure enabled with the Data Management Hub will be permanent, persistent and linked and will have a transformative potential for the way we do science in the future
 
@@ -107,3 +107,5 @@ In turn, the research data infrastructure enabled with the Data Management Hub w
 [^12]: "Guidelines on FAIR Data Management in Horizon 2020." European Union. (2016) [https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf](https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf) [cited 7 May 2017]
 
 [^13]: "The FAIR Data Principles explained" Erik Schultes et al. (2017)[https://www.dtls.nl/fair-data/fair-principles-explained/](https://www.dtls.nl/fair-data/fair-principles-explained/) [cited 6 July 2017]
+
+[^14]: Bilder G, Lin J, Neylon C (2015) Principles for Open Scholarly Infrastructure-v1 http://dx.doi.org/10.6084/m9.figshare.1314859  via http://cameronneylon.net/blog/principles-for-open-scholarly-infrastructures/ (cited 5 June 2017)
