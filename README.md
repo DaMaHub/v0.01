@@ -69,7 +69,7 @@ The Data Management Hub allows researchers to manage research data in a seamless
 
 * to keep sensitive data secure and,
 * to collaborate between research groups,  
-* to make research data accessible, interoperable and reusable,
+* to make research data FAIR (Findable, Accessible, Interoperable and Reusable) [13],
 * to effortlessly publish data together with original journal articles.
  
 The research data infrastructure enabled with the Data Management Hub will be permanent, persistent and linked and will have a transformative potential for the way we do science in the future
@@ -103,3 +103,5 @@ The research data infrastructure enabled with the Data Management Hub will be pe
 [^11]: "Realising the European Open Science Cloud." European Union. (2016) [https://ec.europa.eu/research/openscience/pdf/realising_the_european_open_science_cloud_2016.pdf#view=fit&pagemode=none](https://ec.europa.eu/research/openscience/pdf/realising_the_european_open_science_cloud_2016.pdf#view=fit&pagemode=none) [cited 7 May 2017]
 
 [^12]: "Guidelines on FAIR Data Management in Horizon 2020." European Union. (2016) [https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf](https://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf) [cited 7 May 2017]
+
+[^13]: "The FAIR Data Principles explained" Erik Schultes et al. (2017)[https://www.dtls.nl/fair-data/fair-principles-explained/](https://www.dtls.nl/fair-data/fair-principles-explained/) [cited 6 July 2017]
