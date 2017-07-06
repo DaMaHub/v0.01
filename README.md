@@ -8,7 +8,7 @@
 
 • [slides](https://github.com/kubrik-engineering/damahub/blob/master/DaMaHub_slides.pdf)
 
-• [Road map / to do list](https://github.com/kubrik-engineering/damahub/blob/master/to%20do%20list.md)
+• [Road map to MVP](https://github.com/kubrik-engineering/damahub/blob/master/to%20do%20list.md)
 
 • [Contact us](https://github.com/kubrik-engineering/damahub/blob/master/contact.md) and help to built Data Management Hub
 
@@ -72,7 +72,9 @@ The Data Management Hub allows researchers to manage research data in a seamless
 * to make research data FAIR (Findable, Accessible, Interoperable and Reusable) [13],
 * to effortlessly publish data together with original journal articles.
  
-The research data infrastructure enabled with the Data Management Hub will be permanent, persistent and linked and will have a transformative potential for the way we do science in the future
+Data Management Hub must be designed, developed and maintained according to the [Principles for Open Scholarly Infrastructures](https://github.com/kubrik-engineering/damahub/blob/master/Principles%20for%20Open%20Scholarly%20Infrastructures.md). 
+
+In turn, the research data infrastructure enabled with the Data Management Hub will be permanent, persistent and linked and will have a transformative potential for the way we do science in the future
 
 
 
