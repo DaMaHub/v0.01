@@ -35,7 +35,7 @@ The Data Management Hub is a distributed data management platform which fits int
 
 Peer reviewing publication and re-use of open research data will be delivered by this platform. Careerwise, by using the Data Management Hub, researchers will benefit from unambiguous data authorship attribution. 
 
-The Data Management Hub platform authenticates and timestamps generated research data automatically, and enables scientists to benefit from a state-of-the art version management system in order to empower replications of scientific studies universally.
+The Data Management Hub platform authenticates and timestamps generated research data automatically, and enables scientists to benefit from a state-of-the art version management system in order to empower replications [^15]  of scientific studies universally.
 
 ##  Technologies
 
@@ -109,3 +109,5 @@ In turn, the research data infrastructure enabled with the Data Management Hub w
 [^13]: "The FAIR Data Principles explained" Erik Schultes et al. (2017)[https://www.dtls.nl/fair-data/fair-principles-explained/](https://www.dtls.nl/fair-data/fair-principles-explained/) [cited 6 July 2017]
 
 [^14]: Bilder G, Lin J, Neylon C (2015) Principles for Open Scholarly Infrastructure-v1 http://dx.doi.org/10.6084/m9.figshare.1314859  via http://cameronneylon.net/blog/principles-for-open-scholarly-infrastructures/ (cited 5 June 2017)
+
+[^15]: 1,500 scientists lift the lid on reproducibilty http://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970 (cited 17 August 2017)
