@@ -1,6 +1,6 @@
 # Data Management Hub 
 
-*Data Management Hub is a distributed data management platform which enable secure collaboration on sensitive data and make data public in a way it remain useful for decades. It will complement the existing networks of institutional repositories and make authenticated research data truly findable, accessible, interoperable and reusable by employing a distributed file system (IPFS) and a public blockchain, to ensure that all changes are secured against falsifications by digital signatures.* 
+*Data Management Hub is a distributed data management platform which enable secure collaboration on sensitive data and make data public in a way it remain useful for decades. It will complement the existing networks of institutional repositories and make verifiable (research) data truly findable, accessible, interoperable and reusable by employing a distributed file system ([IPFS](https://github.com/ipfs)) and a public blockchain, to ensure that all changes are secured against falsifications by digital signatures.* 
 
 
 • [Executive Summary](https://github.com/kubrik-engineering/damahub/blob/master/ExecutiveSummaryDataManagementHub.pdf)  ( drafted 19 December 2016)
