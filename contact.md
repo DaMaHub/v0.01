@@ -1,6 +1,6 @@
 Contact
 
-• email: denis.parfenov@protonmail.com / denis.parfenov@kubrik.io
+• email: denis.parfenov@protonmail.com
 
 • [Wire](https://wire.com/en/) @parfenov
 
